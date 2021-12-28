@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleFakePlayers:jar">
+    <output-path>$PROJECT_DIR$/../../Test Server/Minecraft/1.18.1/plugins</output-path>
+    <root id="archive" name="SimpleFakePlayers.jar">
+      <element id="module-output" name="SimpleFakePlayers" />
+    </root>
+  </artifact>
+</component>
