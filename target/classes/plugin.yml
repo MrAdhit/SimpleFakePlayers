@@ -1,7 +1,0 @@
-name: SimpleFakePlayers
-version: '1.0'
-main: com.mradhit.simplefakeplayers.simplefakeplayers.SimpleFakePlayers
-api-version: 1.18
-depend: [ ProtocolLib ]
-authors: [ MrAdhit ]
-description: Simple plugin to modify server players count
